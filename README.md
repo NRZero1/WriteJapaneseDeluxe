@@ -1,6 +1,6 @@
 # JapaneseWriteDeluxe
 Game based OCR project to read handwritten Japanese letter for education purpose. This project is created as a requirement to finish my thesis
-
+```
 Copyright 2021 Daniel Ronaldo Pangestu
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,3 +14,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+```
