@@ -1,4 +1,4 @@
-# JapaneseWriteDeluxe
+# WriteJapaneseDeluxe
 Game based OCR project to read handwritten Japanese letter for education purpose. This project is created as a requirement to finish my thesis
 ```
 Copyright 2021 Daniel Ronaldo Pangestu
